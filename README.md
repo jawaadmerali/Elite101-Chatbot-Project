@@ -1,5 +1,13 @@
-# Elite101-Project
-This will have all project files for elite 101.
-# This is a heading
-##subheading
-This is text
+# Introduction
+
+This is a repository created by *Jawaad*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
+
+ 
+
+```
